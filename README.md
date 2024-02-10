@@ -1,5 +1,3 @@
 # Image-Color-Detection
 
-1.IN OUR PROJECT WE HAVE TRIED TO DETECT THE PERCENTAGE OF VARIOUS COLORS PRESENT IN A GIVEN DIGITAL IMAGE.
-2.OUR color detection TECHNIQUE identifies THE pixels in an image that matches WITH a specified color or color range.
-3.USING THIS WE CAN ACCESS THE MULTIMEDIA DATABASE WHERE COLOR IS USED AS KEY COMPONENT.
+In our project we have tried to detect the percentage of various colors present in a given digital image. Our color detection technique identifies the pixels in an image that matches with a specified color or color range & using this we can access the multimedia database where color is used as key component
